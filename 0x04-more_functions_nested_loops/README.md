@@ -9,3 +9,4 @@ Write a function that draws a straight line in the terminal
 Write a function that draws a diagonal line on the terminal
 Write a function that prints a square
 FIZZ BUZZ INTERVIEW
+Write a function that prints a triangle
