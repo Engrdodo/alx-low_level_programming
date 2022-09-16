@@ -10,3 +10,5 @@ Write a function that draws a diagonal line on the terminal
 Write a function that prints a square
 FIZZ BUZZ INTERVIEW
 Write a function that prints a triangle
+
+Write a program that finds and prints the largest prime factor of the number 612852475143
