@@ -15,7 +15,7 @@ int main(void)
 		j++;
 	}
 
-	j = 'A'
+	j = 'A';
 
 	while (j <= 'Z')
 	{
